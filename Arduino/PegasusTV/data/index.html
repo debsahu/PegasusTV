@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgb(115, 143, 103);
+}
+.button {
+  background-color: #296B0D;
+  color: white;
+  padding: 16px 25px;
+  font-size: 100px;
+  margin: 0 auto;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 8px;
+}
+.button:hover {
+  background-color: green;
+}
+.button:active {
+  background-color: #8F2A2D;
+}
+</style>
+</head>
+<body>
+<input type="button" class="button" onclick="location.href='/togglePower';" value="Toggle Power" style="width:auto;"/>
+</body>
+</html>
