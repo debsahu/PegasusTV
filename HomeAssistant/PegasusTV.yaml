@@ -1,0 +1,8 @@
+switch:
+  - platform: mqtt
+    name: "Bedroom TV"
+    command_topic: "home/PegasusTV/in"
+    payload_on: "ON"
+    payload_off: "ON"
+    optimistic: false
+    qos: 0
