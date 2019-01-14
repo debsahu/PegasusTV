@@ -1,6 +1,6 @@
 # Pegasus TV
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/debsahu/PegasusTV/) [![LastCommit](https://img.shields.io/github/last-commit/debsahu/PegasusTV.svg?style=social)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/debsahu/PegasusTV/) [![LastCommit](https://img.shields.io/github/last-commit/debsahu/PegasusTV.svg?style=social)](https://github.com/debsahu/PegasusTV/commits/master)
 
 Goal:
 - Control a "dumb" TV using virtual assistants via Home Assistant
